@@ -92,4 +92,4 @@ dependencies = [
 ]
 
 [package.metadata]
-requires-dist = [{ name = "numpy", specifier = ">=2.3.3" }]
+requires-dist = [{ name = "numpy", specifier = ">=2.1.0" }]
