@@ -1,5 +1,3 @@
-import numpy as np
-
 def main(a=None):
     return a
 
