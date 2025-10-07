@@ -1,9 +1,7 @@
 import numpy as np
 
-def main():
-    print("Hello from uv-test!")
-    a = np.arange(10)
-    print(a)
+def main(a=None):
+    return a
 
 
 if __name__ == "__main__":
